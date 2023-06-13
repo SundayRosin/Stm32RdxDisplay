@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "speedmeter", "speedmeter\speedmeter.cproj", "{B6DBD2BB-D339-4F6D-8AA1-8EB55CD94E88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6DBD2BB-D339-4F6D-8AA1-8EB55CD94E88}.Debug|AVR.ActiveCfg = Debug|AVR
+		{B6DBD2BB-D339-4F6D-8AA1-8EB55CD94E88}.Debug|AVR.Build.0 = Debug|AVR
+		{B6DBD2BB-D339-4F6D-8AA1-8EB55CD94E88}.Release|AVR.ActiveCfg = Release|AVR
+		{B6DBD2BB-D339-4F6D-8AA1-8EB55CD94E88}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
